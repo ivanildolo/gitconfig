@@ -1,0 +1,7 @@
+[user]
+	name = ivanildolo
+	email = ivanildosilvalima@gmail.colm
+[core]
+	editor = code
+[alias]
+	l = !git log --pretty='format:%C(blue)%h%C(yellow)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'
